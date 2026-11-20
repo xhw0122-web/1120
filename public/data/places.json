@@ -1,0 +1,164 @@
+[
+  {
+    "id": "a-lao-goose",
+    "name": "和美阿勞鵝肉",
+    "category": "在地小吃",
+    "dishes": [
+      "招牌鵝肉",
+      "下水湯"
+    ],
+    "address": "彰化縣和美鎮愛民路102號",
+    "latitude": 24.10981,
+    "longitude": 120.4993,
+    "hours": "11:00–20:00，週三公休",
+    "price": null,
+    "source": "https://github.com/hunglun2026/lun-food/blob/8c5f300617ff18486e5bbaa20d7ca49b45bc6587/scripts/fixtures/Restaurant-json.zip",
+    "checkedOn": "2026-11-20",
+    "sourceUpdatedOn": "2023-01-06",
+    "demo": false
+  },
+  {
+    "id": "wu-steamed-cakes",
+    "name": "吳師父水蒸蛋糕饅頭",
+    "category": "早餐",
+    "alsoCategories": [
+      "甜點冰品"
+    ],
+    "dishes": [
+      "饅頭",
+      "黑糖桂圓蒸蛋糕",
+      "鹹蛋糕"
+    ],
+    "address": "彰化縣和美鎮仁安路294號",
+    "latitude": 24.11122,
+    "longitude": 120.4971,
+    "hours": "07:50–21:30",
+    "price": null,
+    "source": "https://github.com/hunglun2026/lun-food/blob/8c5f300617ff18486e5bbaa20d7ca49b45bc6587/scripts/fixtures/Restaurant-json.zip",
+    "checkedOn": "2026-11-20",
+    "sourceUpdatedOn": "2023-01-06",
+    "demo": false
+  },
+  {
+    "id": "guang-xiang-ju",
+    "name": "廣香居食品",
+    "category": "在地小吃",
+    "dishes": [
+      "古早味香腸",
+      "貢丸"
+    ],
+    "address": "彰化縣和美鎮中正路57號",
+    "latitude": 24.11237,
+    "longitude": 120.4967,
+    "hours": "週一 07:00–20:00，週二至週日 04:30–20:00",
+    "price": null,
+    "source": "https://github.com/hunglun2026/lun-food/blob/8c5f300617ff18486e5bbaa20d7ca49b45bc6587/scripts/fixtures/Restaurant-json.zip",
+    "checkedOn": "2026-11-20",
+    "sourceUpdatedOn": "2023-04-28",
+    "demo": false
+  },
+  {
+    "id": "song-yuan-japanese",
+    "name": "崧園日式食坊",
+    "category": "正餐",
+    "dishes": [],
+    "address": "彰化縣和美鎮平安路141號",
+    "latitude": 24.10922,
+    "longitude": 120.4933,
+    "hours": "11:00–14:00、17:00–20:00，週四公休",
+    "price": null,
+    "source": "https://github.com/hunglun2026/lun-food/blob/8c5f300617ff18486e5bbaa20d7ca49b45bc6587/scripts/fixtures/Restaurant-json.zip",
+    "checkedOn": "2026-11-20",
+    "sourceUpdatedOn": "2023-01-06",
+    "demo": false
+  },
+  {
+    "id": "yi-yi-coffee",
+    "name": "一億咖啡觀光工廠-品勝實業",
+    "category": "飲料",
+    "dishes": [
+      "咖啡",
+      "中烘焙咖啡豆"
+    ],
+    "address": "彰化縣和美鎮彰新路四段444巷201號",
+    "latitude": 24.1147,
+    "longitude": 120.4907,
+    "hours": "每日 09:30–17:00",
+    "price": null,
+    "source": "https://github.com/hunglun2026/lun-food/blob/8c5f300617ff18486e5bbaa20d7ca49b45bc6587/scripts/fixtures/Restaurant-json.zip",
+    "checkedOn": "2026-11-20",
+    "sourceUpdatedOn": "2026-10-16",
+    "demo": false
+  },
+  {
+    "id": "new-black-cat",
+    "name": "新黑貓餐廳",
+    "category": "正餐",
+    "dishes": [
+      "臺菜",
+      "海鮮料理"
+    ],
+    "address": "彰化縣和美鎮彰美路4段428號",
+    "latitude": 24.1056,
+    "longitude": 120.5064,
+    "hours": "09:30–14:00、17:00–21:00",
+    "price": null,
+    "source": "https://github.com/hunglun2026/lun-food/blob/8c5f300617ff18486e5bbaa20d7ca49b45bc6587/scripts/fixtures/Restaurant-json.zip",
+    "checkedOn": "2026-11-20",
+    "sourceUpdatedOn": "2023-01-06",
+    "demo": false
+  },
+  {
+    "id": "mei-wei-seafood",
+    "name": "美味海鮮小吃",
+    "category": "正餐",
+    "dishes": [
+      "蒜頭炒飯",
+      "味噌蛤蜊湯",
+      "米苔目"
+    ],
+    "address": "彰化縣和美鎮和港路576號",
+    "latitude": 24.13288,
+    "longitude": 120.4898,
+    "hours": "11:00–14:00、16:30–20:30",
+    "price": null,
+    "source": "https://github.com/hunglun2026/lun-food/blob/8c5f300617ff18486e5bbaa20d7ca49b45bc6587/scripts/fixtures/Restaurant-json.zip",
+    "checkedOn": "2026-11-20",
+    "sourceUpdatedOn": "2023-01-06",
+    "demo": false
+  },
+  {
+    "id": "he-shan",
+    "name": "賀山",
+    "category": "正餐",
+    "dishes": [
+      "四季懷石料理"
+    ],
+    "address": "彰化縣和美鎮彰美路3段127號",
+    "latitude": 24.10012,
+    "longitude": 120.5227,
+    "hours": "11:00–14:00、17:00–21:00",
+    "price": null,
+    "source": "https://github.com/hunglun2026/lun-food/blob/8c5f300617ff18486e5bbaa20d7ca49b45bc6587/scripts/fixtures/Restaurant-json.zip",
+    "checkedOn": "2026-11-20",
+    "sourceUpdatedOn": "2018-01-19",
+    "demo": false
+  },
+  {
+    "id": "mei-yu-bakery",
+    "name": "美鈺食品",
+    "category": "甜點冰品",
+    "dishes": [
+      "手工烘焙伴手禮"
+    ],
+    "address": "彰化縣和美鎮東安路8號",
+    "latitude": 24.09306,
+    "longitude": 120.5314,
+    "hours": null,
+    "price": null,
+    "source": "https://github.com/hunglun2026/lun-food/blob/8c5f300617ff18486e5bbaa20d7ca49b45bc6587/scripts/fixtures/Restaurant-json.zip",
+    "checkedOn": "2026-11-20",
+    "sourceUpdatedOn": "2023-01-06",
+    "demo": false
+  }
+]
